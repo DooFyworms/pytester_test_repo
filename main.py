@@ -18,3 +18,7 @@ def to_sentence(s) -> str:
 def sub(a, b) -> int:
     return math.floor(a - b)
 
+
+if __name__ == "__main__":
+    print(os.path.dirname(__file__))
+
